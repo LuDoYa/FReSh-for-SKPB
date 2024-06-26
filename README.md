@@ -1,4 +1,4 @@
-# ITS Course Card Application
+# FReSh for SKPB
 
 A simple, yet stupid application I made in my internship in ITS campus.
 
